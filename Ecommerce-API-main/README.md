@@ -112,9 +112,9 @@ Collection Name: orders
 
 ###### Sample Input: 
 
- name: "Pushpendra Singh"
+ name: "Shubham kannojiya"
 
- password: "Push1697@"
+ password: "shubh1697@"
  
 ##### Output: Success Message and data will store in MongoDB
 
@@ -125,23 +125,23 @@ else you got Wrong Password || Wrong Username || Login failed (according to your
 
 ##### Sample Input: 
 
- name: "Pushpendra Singh"
+ name: "Shubham kannojiya"
  
- password: "Push1697@"
+ password: "Shubh1697@"
  
 ##### Output: Success Message and JSON web token
 
 ##### Sample Input: 
 
- name: "Pushpendra"
+ name: "Shubham"
  
- password: "Push1697@"
+ password: "Shubh1697@"
  
 ##### Output: Wrong Username
 
 ##### Sample Input: 
 
- name: "Pushpendra Singh"
+ name: "Shubham kannojiya"
  
  password: "Push"
  
